@@ -1,8 +1,8 @@
 
 | Due Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
-| Monday January 9, 2021  | 0109 | In-Class Assignment |  [Introduction](./0109-Introduction-in-class-assignment.html) | [ipynb](./0109-Introduction-in-class-assignment.ipynb) |
-
+| Monday January 9, 2023  | 0109 | In-Class Assignment |  [Introduction](./0109-Introduction-in-class-assignment.html) | [ipynb](./0109-Introduction-in-class-assignment.ipynb) |
+| Tuesday January 10, 2023  | 0110 | Pre-Class Assignment | [Clusters](./0110--Clusters_pre-class-assignment.html) | [ipynb](./0110--Clusters_pre-class-assignment.ipynb) |
 
 
 
@@ -12,7 +12,7 @@
 
 | Due Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
-| Tuesday January 10, 2021  | 0110 | Pre-Class Assignment | [Clusters](./0119--Clusters_pre-class-assignment.html) | [ipynb](./0119--Clusters_pre-class-assignment.ipynb) |
+
 | Wednesday January 11 2021  | 0111 | In-Class Assignment | [Pandemic](./0120-Pandemic_in-class-assignment.html) | [ipynb](./0120-Pandemic_in-class-assignment.ipynb) |
 | Thursday January 12, 2021  | 0112 | Pre-Class Assignment | [Command_Line](./0121--Command_Line_pre-class-assignment.html) | [ipynb](./0121--Command_Line_pre-class-assignment.ipynb) |
 | Friday January 13, 2021  | 0113 | In-Class Assignment | [GalaxSee](./0122-GalaxSee_in-class-assignment.html) | [ipynb](./0122-GalaxSee_in-class-assignment.ipynb) |
