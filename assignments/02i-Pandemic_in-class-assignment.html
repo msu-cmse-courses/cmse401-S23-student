@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>02p--Clusters_pre-class-assignment</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>02i-Pandemic_in-class-assignment</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14579,7 +14579,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><a href="./0110--Clusters_pre-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
+<p><a href="./02i-Pandemic_in-class-assignment.ipynb">Link to this document's Jupyter Notebook</a></p>
 
 </div>
 </div>
@@ -14591,7 +14591,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>In order to successfully complete this assignment you must do the required reading, watch the provided videos and complete all instructions.  The embedded survey form must be entirely filled out and submitted on or before <strong>11:59pm on Tuesday January 10</strong>.  Students must come to class the next day prepared to discuss the material covered in this assignment.</p>
+<p>In order to successfully complete this assignment you need to participate both individually and in groups during class.   If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class on <strong>Wednesday January 11</strong>.</p>
 
 </div>
 </div>
@@ -14615,7 +14615,9 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Pre-Class-Assignment:-High-Performace-Computing">Pre-Class Assignment: High Performace Computing<a class="anchor-link" href="#Pre-Class-Assignment:-High-Performace-Computing">&#182;</a></h1>
+<h1 id="In-Class-Assignment:-Pandemic-Example">In-Class Assignment: Pandemic Example<a class="anchor-link" href="#In-Class-Assignment:-Pandemic-Example">&#182;</a></h1><p><img alt="image of a person wearing a mask during a pandemic. This image is here to motivate the pandemic example we will cover in class." src="https://images.squarespace-cdn.com/content/v1/584db7f9725e2509ff62d13f/1605052950627-UF7EUX7F41IMC7S51VCP/ke17ZwdGBToddI8pDm48kLNBnxw6dW5AAzM-sWYM7oAUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2tnEKUS9exKpIGv5IxM1TRKHvWxW34jxJ2ktPcfbUxTYw8IybQRqhTbIcv7dJxX2/1131-mask.jpg?format=600w"></p>
+<p>Image from: <a href="https://plex.page/Researchers_Delay_Coronavirus_Vaccine">Researchers Delay Cronoavirus Vaccine</a></p>
+
 </div>
 </div>
 </div>
@@ -14626,13 +14628,11 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Goals-for-today's-pre-class-assignment">Goals for today's pre-class assignment<a class="anchor-link" href="#Goals-for-today's-pre-class-assignment">&#182;</a></h1><ol>
-<li><a href="#Introduction-to-Parallel-Programming">Introduction to Parallel Programming</a></li>
-<li><a href="#How-to-build-a-Supercomputer">How to build a Supercomputer</a></li>
-<li><a href="#OnDemand">OnDemand</a></li>
-<li><a href="#Test-HPC-Account">Test HPC Account</a></li>
-<li><a href="#Using-git-and-Jupyter-on-the-HPCC">Using git and Jupyter on the HPCC</a></li>
-<li><a href="#Assignment-wrap-up">Assignment wrap up</a></li>
+<h3 id="Agenda-for-today's-class-(70-minutes)">Agenda for today's class (70 minutes)<a class="anchor-link" href="#Agenda-for-today's-class-(70-minutes)">&#182;</a></h3><ol>
+<li>(20 minutes) <a href="#Welcome-to-CMSE401!">Welcome to CMSE401!</a></li>
+<li>(10 minutes) <a href="#Homework-1">Homework 1</a></li>
+<li>(20 minutes) <a href="#Project-Planning">Project Planning</a></li>
+<li>(20 minutes) <a href="#Pandemic-Software-on-HPCC">Pandemic Software on HPCC</a></li>
 </ol>
 
 </div>
@@ -14646,62 +14646,13 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=Introduction-to-Parallel-Programming></a></p>
-<h1 id="1.-Introduction-to-Parallel-Programming">1. Introduction to Parallel Programming<a class="anchor-link" href="#1.-Introduction-to-Parallel-Programming">&#182;</a></h1><p>Please watch this video to give you a a broad review of some of many of the topics and systems we will be covering and using in this course.</p>
+<p><a name=Welcome-to-CMSE401!></a></p>
+<h1 id="1.-Welcome-(again)-to-CMSE401!">1. Welcome (again) to CMSE401!<a class="anchor-link" href="#1.-Welcome-(again)-to-CMSE401!">&#182;</a></h1><p>How did the preperation week go?  Where did you get stuck?  What questions do you have?</p>
+<p><a href="02p--Clusters_pre-class-assignment.ipynb">02p--Clusters_pre-class-assignment</a></p>
 
 </div>
 </div>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;_3ZymL2msb8&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[1]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-        <iframe
-            width="640"
-            height="360"
-            src="https://www.youtube.com/embed/_3ZymL2msb8?cc_load_policy=True"
-            frameborder="0"
-            allowfullscreen
-            
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 <div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
 <div class="jp-Cell-inputWrapper">
@@ -14710,74 +14661,9 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=How-to-build-a-Supercomputer></a></p>
-<h1 id="2.-How-to-build-a-Supercomputer">2. How to build a Supercomputer<a class="anchor-link" href="#2.-How-to-build-a-Supercomputer">&#182;</a></h1><p>Your instructor submitted a request to get you an account on the MSU High Performance Computer (HPC).  The following videos try to explain the system and how to gain access.  We will be using these accounts in class.</p>
-
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;6oyoS-ddUH0&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[2]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-        <iframe
-            width="640"
-            height="360"
-            src="https://www.youtube.com/embed/6oyoS-ddUH0?cc_load_policy=True"
-            frameborder="0"
-            allowfullscreen
-            
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Most of the "real" work we will be doing in class will use remote computing resources.  many of these recourses have web interfaces which are easy to access and include:</p>
-<ul>
-<li><a href="http://ondemand.hpcc.msu.edu/">ondemand.hpcc.msu.edu/</a> - MSU Institute for Cyber Enabled Research Remote access server.</li>
-<li><a href="http://jupyterhub.egr.msu.edu">jupyterhub.egr.msu.edu</a> - Department of engineering Jupyterhub server.</li>
-<li><a href="http://jupyterhub-legacy.egr.msu.edu">jupyterhub-legacy.egr.msu.edu</a> - Department of engineering backup Jupyterhub server (this one is older).</li>
+<p><a name=Homework-1></a></p>
+<h1 id="2.-Homework-1">2. Homework 1<a class="anchor-link" href="#2.-Homework-1">&#182;</a></h1><ul>
+<li><a href="06h-HW1_Wave_Equation.ipynb">06h-HW1_Wave_Equation</a></li>
 </ul>
 
 </div>
@@ -14790,7 +14676,11 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>DO THIS:</font></strong> These Videos uses a lot of jargon.  Add words and phrases to the course <a href="https://docs.google.com/document/d/1-oIiXzrs9pPspGWUzcSZzVgzqs0emTjegsomX4R5bYo/edit?usp=sharing">Jargon Jar</a></p>
+<hr>
+<p><a name=Project-Planning></a></p>
+<h1 id="3.-Project-Planning">3. Project Planning<a class="anchor-link" href="#3.-Project-Planning">&#182;</a></h1><ul>
+<li><a href="12p-PROJECT_Proposal.ipynb">12p-PROJECT-Proposal</a></li>
+</ul>
 
 </div>
 </div>
@@ -14803,71 +14693,23 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=OnDemand></a></p>
-<h1 id="3.-OnDemand">3. OnDemand<a class="anchor-link" href="#3.-OnDemand">&#182;</a></h1><p>In addition to making your code go faster we can use a faster computer...</p>
-<p>The HPCC has a new interface called <a href="http://ondemand.hpcc.msu.edu/">OpenOnDemand</a>.  You can log into OpenOnDemand using your MSU netid and password (using Google MSU account) and you will get to a website interface that has everything you need to work on the HPCC.  Here is a video introducing you to OpenOnDemand:</p>
-
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
-<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s2">&quot;FMxa72hg3PA&quot;</span><span class="p">,</span><span class="n">width</span><span class="o">=</span><span class="mi">640</span><span class="p">,</span><span class="n">height</span><span class="o">=</span><span class="mi">360</span><span class="p">,</span> <span class="n">cc_load_policy</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[3]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-        <iframe
-            width="640"
-            height="360"
-            src="https://www.youtube.com/embed/FMxa72hg3PA?cc_load_policy=True"
-            frameborder="0"
-            allowfullscreen
-            
-        ></iframe>
-        
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong> Are you able to log on to the HPCC and if not, where did you get stuck?</p>
+<p><a name=Pandemic-Software-on-HPCC></a></p>
+<h1 id="4.-Pandemic-Software-on-HPCC">4. Pandemic Software on HPCC<a class="anchor-link" href="#4.-Pandemic-Software-on-HPCC">&#182;</a></h1><p>Now we are all going to log onto the HPCC and run a Pandemic simulator.  This is intended to be an overview for the class.</p>
+<ul>
+<li>Please ask questions and try to follow along.  </li>
+<li>It is okay if we don't get to everything in class.  </li>
+<li>We will be covering these commands all semester so it is also okay if you don't fully understand what is going on. </li>
+</ul>
+<h3 id="Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">Step 1: Start an OpenOnDemand interactive desktop session.<a class="anchor-link" href="#Step-1:-Start-an-OpenOnDemand-interactive-desktop-session.">&#182;</a></h3><ol>
+<li>Go to <a href="http://OnDemand.hpcc.msu.edu">http://OnDemand.hpcc.msu.edu</a>, select "Interactive Apps--&gt;Interactive Desktop".  Set the number of hours to 1 and the number of cores to 1 and the memory to 1GB.  Under advanced options set the node type to "Any".  Leave everything else blank and hit "Launch".   </li>
+</ol>
+<ol>
+<li><p>Select "Interactive Apps--&gt;Interactive Desktop" again.  This time set the number of hours to 1 and the number of cores to 4 and the memory to 1GB.  Under advanced options set the node type to "Any".  Leave everything else blank and hit "Launch".</p>
+</li>
+<li><p>Wait for your sessions to start.</p>
+</li>
+</ol>
+<p><strong><em>NOTE</em></strong> As is the case anytime we use the HPCC,  there is no guarantee that these sessions will start during class.  This is a shared system and we need to be flexible.  You can also do the rest of this assignment on a development node.</p>
 
 </div>
 </div>
@@ -14879,7 +14721,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
+<h3 id="Step-2:-Open-a-Terminal-app">Step 2: Open a Terminal app<a class="anchor-link" href="#Step-2:-Open-a-Terminal-app">&#182;</a></h3><p>Once you have a desktop up and running, open a terminal app from the main menu.  Try navigating to "Applications--&gt;System Tools--&gt;Terminal".  Explore this menu a bit to get familiar with some of the programs available inside the interactive desktop.</p>
 
 </div>
 </div>
@@ -14891,9 +14733,41 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Test-HPC-Account></a></p>
-<h1 id="4.-Test-HPC-Account">4. Test HPC Account<a class="anchor-link" href="#4.-Test-HPC-Account">&#182;</a></h1><p>&#9989; <strong><font color=red>DO THIS:</font></strong> Follow the above video and log on to a development node using <a href="http://ondemand.hpcc.msu.edu">http://ondemand.hpcc.msu.edu</a> or by sshing to hpcc.msu.edu laptop.  Run the following from a terminal on the HPCC"</p>
+<h3 id="Step-3:-Navigate-to-the-Pandemic-Directory-inside-the-BCCD-Example-directory">Step 3: Navigate to the Pandemic Directory inside the BCCD-Example directory<a class="anchor-link" href="#Step-3:-Navigate-to-the-Pandemic-Directory-inside-the-BCCD-Example-directory">&#182;</a></h3><p>There is a BCCD-Example directory inside your course git repository (You should have cloned the course git repository in the pre-class)</p>
+<p>Let us Navigate to that folder using the following commands:</p>
+<table>
+<thead><tr>
+<th>Command</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cd</td>
+<td>Change Directory</td>
+</tr>
+<tr>
+<td>ls</td>
+<td>list directory</td>
+</tr>
+<tr>
+<td>pwd :</td>
+<td>print working directory</td>
+</tr>
+<tr>
+<td>.</td>
+<td>Shortcut to indicate current directory</td>
+</tr>
+<tr>
+<td>..</td>
+<td>Shortcut to indicate parent directory</td>
+</tr>
+<tr>
+<td>~</td>
+<td>Shortcut to indicate home directory</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 </div>
@@ -14905,16 +14779,15 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<div class="highlight"><pre><span></span>python --version
+<p>These commands may be slightly different on your computer but here are common commands:</p>
 
-pip --version
-
-git clone https://gitlab.msu.edu/appeloda/cmse401-s22.git CMSE401
-
-<span class="nb">cd</span> CMSE401
-
+<pre><code>cd CMSE401-S23
 ls
-</pre></div>
+cd BCCD-Examples
+ls
+cd Pandemic 
+ls
+pwd</code></pre>
 
 </div>
 </div>
@@ -14926,7 +14799,13 @@ ls
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Note:</strong> the HPCC uses your MSU login and password and scully uses your engineering login and password.</p>
+<h3 id="Step-4:-Compile-the-Pandemic-example-code">Step 4: Compile the Pandemic example code<a class="anchor-link" href="#Step-4:-Compile-the-Pandemic-example-code">&#182;</a></h3><p>Type the following command on the terminal. This switches from the GNU compilers to the Intel compilers.  Some of the examples we are using in class today use the Intel compilers.</p>
+<p><code>module swap GNU intel</code></p>
+<p>This example uses a <code>Makefile</code> to help the user know what commands are needed to compile.  You an view the <code>Makefile</code> by using the <code>cat</code> (catalog) command:</p>
+<p><code>cat Makefile</code></p>
+<p>We run the commands inside the <code>Makefile</code> using the <code>make</code> program. All you need to do is type <code>make</code> and the program will read the <code>Makefile</code> in the current directory and run it for you.</p>
+<p><code>make</code></p>
+<p>You should see some compiler commands on your screen.  This means it is working.  Check for errors and debug them.</p>
 
 </div>
 </div>
@@ -14938,43 +14817,9 @@ ls
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Question:</font></strong> What problems (if any) did you encounter when testing your software?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Question:</font></strong> What did you do to try and fix any problems you encountered?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
+<h3 id="Step-5:-Run-the-Pandemic-example-code">Step 5: Run the Pandemic example code<a class="anchor-link" href="#Step-5:-Run-the-Pandemic-example-code">&#182;</a></h3><p>Assuming everything is working, the build command made a few examples.  Lets run the examples from the command line:</p>
+<p><code>./Pandemic.serial</code></p>
+<p>This should run the Pandemic code inside your virtual desktop window.</p>
 
 </div>
 </div>
@@ -14987,10 +14832,7 @@ ls
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <hr>
-<p><a name=Using-git-and-Jupyter-on-the-HPCC></a></p>
-<h1 id="5.-Using-git-and-Jupyter-on-the-HPCC">5. Using git and Jupyter on the HPCC<a class="anchor-link" href="#5.-Using-git-and-Jupyter-on-the-HPCC">&#182;</a></h1><p>Assuming that you were able to successfully clone the class repository. try running a interactive jupyter server and review some of the course notebook files.</p>
-<h2 id="Step-1:">Step 1:<a class="anchor-link" href="#Step-1:">&#182;</a></h2><p>Go to the "Interactive Applications" and select "Jupyter Notebooks".  For now just use the default settings and hit "Launch".</p>
-<h2 id="Step-2:">Step 2:<a class="anchor-link" href="#Step-2:">&#182;</a></h2><p>When the connection is made, click on the link for the Jupyter Notebook, navigate to the course website and open up todays assignment.</p>
+<h3 id="Congratulations,-we're-done!">Congratulations, we're done!<a class="anchor-link" href="#Congratulations,-we're-done!">&#182;</a></h3><p>If you attend class in-person then have one of the instructors check your notebook and sign you out before leaving class. If you are attending asynchronously, turn in your assignment using D2L.</p>
 
 </div>
 </div>
@@ -15002,303 +14844,12 @@ ls
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<p><a name=Assignment-wrap-up></a></p>
-<h1 id="6.-Assignment-wrap-up">6. Assignment wrap up<a class="anchor-link" href="#6.-Assignment-wrap-up">&#182;</a></h1><p>Please fill out the form that appears when you run the code below.  <strong>You must completely fill this out in order to receive credits for the assignment!</strong></p>
-<p><a href="https://cmse.msu.edu/cmse401-pc-survey">Direct Link to Google Form</a></p>
-<p>If you have trouble with the embedded form, please make sure you log on with your MSU google account at <a href="https://googleapps.msu.edu">googleapps.msu.edu</a> and then click on the direct link above.</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>Assignment-Specific QUESTION:</font></strong>  Were you able to successfully log into the HPCC, clone the class repository and get a jupyter server working? If not, where did you get stuck?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong>  Summarize what you did in this assignment.</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong>  What questions do you have, if any, about any of the topics discussed in this assignment after working through the jupyter notebook?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong>  How well do you feel this assignment helped you to achieve a better understanding of the above mentioned topic(s)?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong> What was the <strong>most</strong> challenging part of this assignment for you?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong> What was the <strong>least</strong> challenging part of this assignment for you?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong>  What kind of additional questions or support, if any, do you feel you need to have a better understanding of the content in this assignment?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong>  Do you have any further questions or comments about this material, or anything else that's going on in class?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>&#9989; <strong><font color=red>QUESTION:</font></strong> Approximately how long did this pre-class assignment take?</p>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Put your answer to the above question here</p>
-
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[4]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">HTML</span>
-<span class="n">HTML</span><span class="p">(</span>
-<span class="sd">&quot;&quot;&quot;</span>
-<span class="sd">&lt;iframe </span>
-<span class="sd">	src=&quot;https://forms.gle/MCBtMERNhPkEftPm6&quot; </span>
-<span class="sd">	width=&quot;100%&quot; </span>
-<span class="sd">	height=&quot;500px&quot; </span>
-<span class="sd">	frameborder=&quot;0&quot; </span>
-<span class="sd">	marginheight=&quot;0&quot; </span>
-<span class="sd">	marginwidth=&quot;0&quot;&gt;</span>
-<span class="sd">	Loading...</span>
-<span class="sd">&lt;/iframe&gt;</span>
-<span class="sd">&quot;&quot;&quot;</span>
-<span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
-<div class="jp-Cell-outputWrapper">
-<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
-</div>
-
-
-<div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[4]:</div>
-
-
-
-<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/html">
-
-<iframe 
-	src="https://forms.gle/MCBtMERNhPkEftPm6" 
-	width="100%" 
-	height="500px" 
-	frameborder="0" 
-	marginheight="0" 
-	marginwidth="0">
-	Loading...
-</iframe>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<hr>
-<h3 id="Congratulations,-we're-done!">Congratulations, we're done!<a class="anchor-link" href="#Congratulations,-we're-done!">&#182;</a></h3><p>To get credit for this assignment you must fill out and submit the above survey from on or before the assignment due date.</p>
+<h3 id="Course-Resources:">Course Resources:<a class="anchor-link" href="#Course-Resources:">&#182;</a></h3><ul>
+<li><a href="https://msu-cmse-courses.github.io/cmse802-f20-student/">Website</a></li>
+<li><a href="https://msu.zoom.us/j/98207034052">ZOOM</a></li>
+<li><a href="https://docs.google.com/document/d/1ahg48CCFhRzUL-QIHzlt_KEf1XqsCasFBU4iePHhcug/edit#">JargonJar</a></li>
+<li><a href="https://gitlab.msu.edu/colbrydi/cmse401-s21.git">GIT</a></li>
+</ul>
 
 </div>
 </div>
