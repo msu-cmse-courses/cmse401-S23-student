@@ -8,6 +8,6 @@ This is an introductory course on Parallel Programming with a focus on scientifi
 
 - [Syllabus](Syllabus)
 - [Assignment Schedule and Downloads](assignments/Schedule)
-- [Git Repository](https://gitlab.msu.edu/colbrydi/cmse401-s23.git)
+- [Git Repository](https://gitlab.msu.edu/appeloda/cmse401-s23.git)
 
 -----
