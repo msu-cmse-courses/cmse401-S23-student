@@ -1,7 +1,7 @@
 
-| Due Date | Assignment Number | Type | Topic and link to notebook |
+| Due Date | Assignment Number | Type | Topic | Link to Notebook |
 |------|--------|------|-------|----------|
-| Monday January 9, 2021  | 0109 | In-Class Assignment |  [Introduction](./0109-Introduction-in-class-assignment.ipynb) |
+| Monday January 9, 2021  | 0109 | In-Class Assignment |  [Introduction](./0109-Introduction-in-class-assignment.html) | [ipynb](./0109-Introduction-in-class-assignment.ipynb) |
 
 
 
