@@ -141,7 +141,7 @@ The best way to contact instructors is through email or by visiting their office
 | When | Where |
 |------|-------|
 | MW 9.00-10.00 | EGR 1225 | (Amit & Daniel)
-| TBD | TBD | (Amit)
+| Thursday | EGR 1508b | (Amit)
 
 
 
