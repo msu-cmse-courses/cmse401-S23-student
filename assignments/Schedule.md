@@ -15,7 +15,7 @@
 | Day  7  |  Tuesday 2023-01-24   | Pre-Class Assignment | [Schedulers](./07p--Schedulers_pre-class-assignment.html) | [ipynb](./07p--Schedulers_pre-class-assignment.ipynb) |
 | Day  7  |  Wednesday 2023-01-25   | In-Class Assignment | [Schedulers](./07i-Schedulers_in-class-assignment.html) | [ipynb](./07i-Schedulers_in-class-assignment.ipynb) |
 | Day  8  |  Thursday 2023-01-26   | Pre-Class Assignment | [BASH](./08p--BASH_pre-class-assignment.html) | [ipynb](./08p--BASH_pre-class-assignment.ipynb) |
-| Day  8  |  Friday 2023-01-27   | In-Class Assignment | [HWLOC](./08h-HWLOC_in-class-assignment.html) | [ipynb](./08h-HWLOC_in-class-assignment.ipynb) |
+| Day  8  |  Friday 2023-01-27   | In-Class Assignment | [HWLOC](./08i-HWLOC_in-class-assignment.html) | [ipynb](./08i-HWLOC_in-class-assignment.ipynb) |
 | Day  9  |  Monday 2023-01-30   | In-Class Assignment | [Quiz1_Serial](./09q-Quiz1_Serial.html) | [ipynb](./09q-Quiz1_Serial.ipynb) |
 | Day  10  |  Tuesday 2023-01-31   | Pre-Class Assignment | [OMP_Intro](./10p--OMP_Intro_pre-class-assignment.html) | [ipynb](./10p--OMP_Intro_pre-class-assignment.ipynb) |
 | Day  10  |  Wednesday 2023-02-01   | In-Class Assignment | [OMP_Intro](./10i-OMP_Intro_in-class-assignment.html) | [ipynb](./10i-OMP_Intro_in-class-assignment.ipynb) |
