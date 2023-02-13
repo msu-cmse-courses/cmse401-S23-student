@@ -33,7 +33,7 @@
 | Day  16  |  Wednesday 2023-02-15   | In-Class Assignment | [OMP_Practice](./16i-OMP_Practice_in-class-assignment.html) | [ipynb](./16i-OMP_Practice_in-class-assignment.ipynb) |
 | Day  17  |  Thursday 2023-02-16   |    | [HW2_OMP](./17h-HW2_OMP.html) | [ipynb](./17h-HW2_OMP.ipynb) |
 | Day  17  |  Friday 2023-02-17   | In-Class Assignment | [OMP_Review](./17i-OMP_Review_in-class-assignment.html) | [ipynb](./17i-OMP_Review_in-class-assignment.ipynb) |
-| Day  17  |  Friday 2023-02-17   | | [Quiz2_OMP](./17q-Quiz2_OMP.html) | [ipynb](./17q-Quiz2_OMP.ipynb) |
+| Day  18  |  Monday 2023-02-20   | | [Quiz2_OMP](./14q-Quiz2_OMP.html) | [ipynb](./14q-Quiz2_OMP.ipynb) |
 | Day  18  |  Monday 2023-02-20   | In-Class Assignment | | [Scaling](./18i-Scaling_in-class-assignment.html) | [ipynb](./18i-Scaling_in-class-assignment.ipynb) |
 | Day  19  |  Tuesday 2023-02-21   | Pre-Class Assignment | [MPI_Introduction](./19p--MPI_Introduction_pre-class-assignment.html) | [ipynb](./19p--MPI_Introduction_pre-class-assignment.ipynb) |
 | Day  19  |  Wednesday 2023-02-22   | In-Class Assignment | [MPI_Introduction](./19i-MPI_Introduction_in-class-assignment.html) | [ipynb](./19i-MPI_Introduction_in-class-assignment.ipynb) |
