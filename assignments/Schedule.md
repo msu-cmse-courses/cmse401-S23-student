@@ -30,8 +30,12 @@
 | Day  15  |  Monday 2023-02-13   | In-Class Assignment | [OMP_Debugging](./15i-OMP_Debugging_in-class-assignment.html) | [ipynb](./15i-OMP_Debugging_in-class-assignment.ipynb) |
 | Day    |  Tuesday 2023-02-14   | **Class canceled** |  |  |
 | Day    |  Wednesday 2023-02-15   |  **Class canceled** |  |  |
-| Day  16  |  Thursday 2023-02-16   | Pre-Class Assignment | [OMP_Data](./16p--OMP_Data_pre-class-assignment.html) | [ipynb](./16p--OMP_Data_pre-class-assignment.ipynb) |
-| Day  16  |  Friday 2023-02-17   | In-Class Assignment | [OMP_Practice](./16i-OMP_Practice_in-class-assignment.html) | [ipynb](./16i-OMP_Practice_in-class-assignment.ipynb) |
+| Day  16  |  Tuesday 2023-02-21   | Pre-Class Assignment | [OMP_Data](./16p--OMP_Data_pre-class-assignment.html) | [ipynb](./16p--OMP_Data_pre-class-assignment.ipynb) |
+| Day  16  |  Wednesday 2023-02-22   | In-Class Assignment | [OMP_Practice](./16i-OMP_Practice_in-class-assignment.html) | [ipynb](./16i-OMP_Practice_in-class-assignment.ipynb) |
+|------|--------|------|-------|----------|
+
+<!---
+
 | Day  17  |  Monday 2023-02-20   | | [Quiz2_OMP](./14q-Quiz2_OMP.html) | [ipynb](./14q-Quiz2_OMP.ipynb) |
 | Day  18  |  Wednesday 2023-02-22   | In-Class Assignment | | [Scaling](./18i-Scaling_in-class-assignment.html) | [ipynb](./18i-Scaling_in-class-assignment.ipynb) |
 | Day  17  |  Thursday 2023-02-23   |    | [HW2_OMP](./17h-HW2_OMP.html) | [ipynb](./17h-HW2_OMP.ipynb) |
@@ -56,7 +60,6 @@
 | Day  27  |  Wednesday 2023-03-22   | In-Class Assignment | [Hybrid](./27i-Hybrid_in-class-assignment.html) | [ipynb](./27i-Hybrid_in-class-assignment.ipynb) |
 |------|--------|------|-------|----------|
 
-<!---
 
 | Day  28  |  Tuesday 2023-03-21   | Pre-Class Assignment | []() | []() |
 | Day  28  |  Wednesday 2023-03-22   | In-Class Assignment | []() | []() |
