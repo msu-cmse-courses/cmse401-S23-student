@@ -20,6 +20,10 @@ By the end of this course, you will be able to:
 
 We will work toward the goals expressed above throughout this course using a range of activities – primarily by writing software both individually and in small groups, but also through discussion, presentations, and other types of exercises.  
 
+## Zoom info until end of spring break:
+
+https://msu.zoom.us/j/98090474201
+Meeting ID: 980 9047 4201
 
 ## Topics Covered
 
