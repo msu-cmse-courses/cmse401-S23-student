@@ -32,6 +32,7 @@
 | Day    |  Wednesday 2023-02-15   |  **Class canceled** |  |  |
 | Day  16  |  Tuesday 2023-02-21   | Pre-Class Assignment | [OMP_Data](./16p--OMP_Data_pre-class-assignment.html) | [ipynb](./16p--OMP_Data_pre-class-assignment.ipynb) |
 | Day  16  |  Wednesday 2023-02-22   | In-Class Assignment | [OMP_Practice](./16i-OMP_Practice_in-class-assignment.html) | [ipynb](./16i-OMP_Practice_in-class-assignment.ipynb) |
+| Day  17  |  Friday 2023-02-24   | In-Class Assignment | | [Scaling](./17i-Scaling_in-class-assignment.html) | [ipynb](./17i-Scaling_in-class-assignment.ipynb) |
 |------|--------|------|-------|----------|
 
 <!---
