@@ -34,12 +34,12 @@
 | Day  19  |  Monday 2023-03-13   | In-Class Assignment | [MPI_Introduction](./19i-MPI_Introduction_in-class-assignment.html) | [ipynb](./19i-MPI_Introduction_in-class-assignment.ipynb) |
 | Day  20  |  Tuesday 2023-03-14   | Pre-Class Assignment | [MPI_Syntax](./20p--MPI_Syntax_pre-class-assignment.html) | [ipynb](./20p--MPI_Syntax_pre-class-assignment.ipynb) |
 | Day  20  |  Wednesday 2023-03-15   | In-Class Assignment | [MPI_Programming](./20i-MPI_Programming_in-class-assignment.html) | [ipynb](./20i-MPI_Programming_in-class-assignment.ipynb) |
-| Day  21  |  Thursday 2023-03-16   |  | [PROJECT_Part1](./21p-PROJECT_Part1.html) | [ipynb](./21p-PROJECT_Part1.ipynb) |
-| Day  21  |  Friday 2023-03-17   | In-Class Assignment | [Project](./21i-Project_in-class-assignment.html) | [ipynb](./21i-Project_in-class-assignment.ipynb) |
+| Day  21  |  Thursday 2023-03-16   | Pre-Class Assignment   | [MPI_Collective](./21p--MPI_Collective_Communications_pre-class-assignment.html) | [ipynb](./21p--MPI_Collective_Communications_pre-class-assignment.ipynb) |
+| Day  21  |  Friday 2023-03-17   | In-Class Assignment | [Wave](./21i-wave.html) | [ipynb](./21i-wave.ipynb) |
 | Day  22  |  Sunday 2023-03-19   | Pre-Class Assignment | [MPI_Errors](./22p--MPI_Errors_pre-class-assignment.html) | [ipynb](./22p--MPI_Errors_pre-class-assignment.ipynb) |
 | Day  22  |  Monday 2023-03-20   | In-Class Assignment | [MPI_Errors](./22i-MPI_Errors_in-class-assignment.html) | [ipynb](./22i-MPI_Errors_in-class-assignment.ipynb) |
-| Day  23  |  Tuesday 2023-03-21   | Pre-Class Assignment | [MPI_Practice](./23p--MPI_Practice_pre-class-assignment.html) | [ipynb](./23p--MPI_Practice_pre-class-assignment.ipynb) |
-| Day  23  |  Wednesday 2023-03-22   | In-Class Assignment | [MPI_Practice](./23i-MPI_Practice_in-class-assignment.html) | [ipynb](./23i-MPI_Practice_in-class-assignment.ipynb) |
+| Day  23  |  Tuesday 2023-03-21   | Pre-Class Assignment | [Project](./23p-PROJECT_Part1.html) | [ipynb](./23p-PROJECT_Part1.ipynb) |
+| Day  23  |  Wednesday 2023-03-22   | In-Class Assignment | [Project](./23i-Project_in-class-assignment.html) | [ipynb](./23i-Project_in-class-assignment.ipynb) |
 | Day  23  |  Friday 2023-03-24   |  | [Quiz3_MPI](./23q-Quiz3_MPI.html) | [ipynb](./23q-Quiz3_MPI.ipynb) |
 | Day  24  |  Sunday 2023-03-26   | Pre-Class Assignment | [MPI_Reduce](./24p--MPI_Reduce_pre-class-assignment.html) | [ipynb](./24p--MPI_Reduce_pre-class-assignment.ipynb) |
 | Day  24  |  Monday 2023-03-27   | In-Class Assignment | [MPI_Reduce](./24i-MPI_Reduce_in-class-assignment.html) | [ipynb](./24i-MPI_Reduce_in-class-assignment.ipynb) |
