@@ -45,11 +45,12 @@
 | Day  24  |  Monday 2023-03-27   | In-Class Assignment | [MPI_Reduce](./24i-MPI_Reduce_in-class-assignment.html) | [ipynb](./24i-MPI_Reduce_in-class-assignment.ipynb) |
 | Day  25  |  Tuesday 2023-03-28    | Pre-Class Assignment | []() | []() |
 | Day  25  |  Wednesday 2023-03-29    | In-Class Assignment | [MPI_Planning](./25i-MPI_Planning_in-class-assignment.html) | [ipynb](./25i-MPI_Planning_in-class-assignment.ipynb) |
-| Day  26  |  Thursday 2023-03-30   | | [HW3_MPI](./26h-HW3_MPI.html) | [ipynb](./26h-HW3_MPI.ipynb) |
 |------|--------|------|-------|----------|
 
 
 <!---
+
+| Day  26  |  Thursday 2023-03-30   | | [HW3_MPI](./26h-HW3_MPI.html) | [ipynb](./26h-HW3_MPI.ipynb) |
 
 
 | Day  26  |  Friday 2023-03-21   | In-Class Assignment | [Picking_parallel](./26i-Picking_parallel_in-class-assignment.html) | [ipynb](./26i-Picking_parallel_in-class-assignment.ipynb) |
