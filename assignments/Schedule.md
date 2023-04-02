@@ -46,6 +46,17 @@
 | Day  25  |  Tuesday 2023-03-28    | No Pre-Class Assignment | []() | []() |
 | Day  25  |  Wednesday 2023-03-29    | In-Class Assignment | [MPI Wave Equation wrap up](./25i-MPI_Wave_Wrap_in-class-assignment.html) | [ipynb](./25i-MPI_Wave_Wrap_in-class-assignment.ipynb) |
 | Day  26  |  Friday 2023-03-31    | In-Class Assignment | Work on projects in class. | |
+| Day  27  |  Monday 2023-04-03    | In-Class Assignment | Scaling / Bandwidth / Latency | |
+| Day  28  |  Wednesday 2023-04-05    | In-Class Assignment | Work on projects in class. | |
+| Day  29  |  Friday 2023-04-07   | In-Class Assignment | Work on projects in class. | |
+| Day  30  |  Monday 2023-04-10    | In-Class Assignment | Work on projects in class. | |
+| Day  31  |  Wednesday 2023-04-12    | In-Class Assignment | Work on projects in class. | |
+| Day  32  |  Friday 2023-04-14    | In-Class Assignment | Work on projects in class. | |
+| Day  33  |  Monday 2023-04-17    | In-Class Assignment | Project Presentations | |
+| Day  34  |  Wednesday 2023-04-19    | In-Class Assignment | Project Presentations | |
+| Day  35  |  Friday 2023-04-20    | In-Class Assignment | Project Presentations | |
+|------|--------|------|-------|----------|
+| Classes end |  Sunday 2023-04-30    | In-Class Assignment | Project Presentations | |
 |------|--------|------|-------|----------|
 
 <!---
