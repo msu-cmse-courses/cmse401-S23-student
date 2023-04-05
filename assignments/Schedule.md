@@ -54,9 +54,10 @@
 | Day  32  |  Friday 2023-04-14    | In-Class Assignment | Work on projects in class. | |
 | Day  33  |  Monday 2023-04-17    | In-Class Assignment | Project Presentations | |
 | Day  34  |  Wednesday 2023-04-19    | In-Class Assignment | Project Presentations | |
+| Day  34  |   Wednesday 2023-04-19    |  | [HW3 MPI](./34h-HW3_MPI.html) | [ipynb](./34h-HW3_MPI.ipynb) |
 | Day  35  |  Friday 2023-04-20    | In-Class Assignment | Project Presentations | |
 |------|--------|------|-------|----------|
-| Classes end |  Sunday 2023-04-30    | In-Class Assignment | Project Presentations | |
+| Classes end |  Sunday 2023-04-30    | ---| --- |--- |
 |------|--------|------|-------|----------|
 
 <!---
